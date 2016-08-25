@@ -15,6 +15,9 @@ namespace Roadkill.Tests
 		public static readonly string LIB_FOLDER;
 		public static readonly string PACKAGES_FOLDER;
 
+
+
+
 		public static readonly int WEB_PORT = 9876;
 		public static readonly string WEB_PATH;
 		public static readonly string WEB_SITENAME = "RoadkillTests";
